@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+
+a {
+    color: darkgreen;
+}
+
+li::marker{
+    color: red;
+}
+
+.ingredients.odd,
+.steps.even {
+    background-color: lightyellow;
+}
+
+.ingredients.even,
+.steps.odd {
+    background-color: lightgray;
+}
+
+li div {
+    font-size: 40px;
+    background-color: aliceblue;
+}
+
+title,
+p,
+h1,
+h2,
+div.image{
+    text-align: center;
+}
+
