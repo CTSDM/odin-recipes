@@ -1,5 +1,6 @@
 body{
     background-color: lightblue;
+    font-family: monospace;
 }
 
 a {
@@ -31,5 +32,10 @@ h1,
 h2,
 div.image{
     text-align: center;
+}
+
+.steps,
+.ingredients {
+    font-family: "Verdana", sans-serif;
 }
 
